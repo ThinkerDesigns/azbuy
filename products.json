@@ -1,0 +1,14 @@
+[
+    {
+        "title": "DELTA Model A221 ECD14020004 Power Supply",
+        "price": "$50",
+        "image": "image_url_1",
+        "link": "ebay_link_1"
+    },
+    {
+        "title": "Another Product",
+        "price": "$100",
+        "image": "image_url_2",
+        "link": "ebay_link_2"
+    }
+]
